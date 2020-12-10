@@ -1,0 +1,9 @@
+{
+	"providers": [
+		{
+			"workingDirectory": "dotnet/mstest",
+			"id": "7f05d9e4-9a09-44ed-800e-8327f6840227",
+			"type": "dotnet"
+		}
+	]
+}
